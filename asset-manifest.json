@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/joanadarc/static/css/main.073c9b0a.css",
-    "main.js": "/joanadarc/static/js/main.186e925d.js",
-    "static/js/787.7bb1cebb.chunk.js": "/joanadarc/static/js/787.7bb1cebb.chunk.js",
-    "static/media/logo.svg": "/joanadarc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/joanadarc/static/css/main.e0f905df.css",
+    "main.js": "/joanadarc/static/js/main.2cfb03cc.js",
     "index.html": "/joanadarc/index.html",
-    "main.073c9b0a.css.map": "/joanadarc/static/css/main.073c9b0a.css.map",
-    "main.186e925d.js.map": "/joanadarc/static/js/main.186e925d.js.map",
-    "787.7bb1cebb.chunk.js.map": "/joanadarc/static/js/787.7bb1cebb.chunk.js.map"
+    "main.e0f905df.css.map": "/joanadarc/static/css/main.e0f905df.css.map",
+    "main.2cfb03cc.js.map": "/joanadarc/static/js/main.2cfb03cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.186e925d.js"
+    "static/css/main.e0f905df.css",
+    "static/js/main.2cfb03cc.js"
   ]
 }
