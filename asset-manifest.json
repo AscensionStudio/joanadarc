@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/joanadarc/static/css/main.e0f905df.css",
-    "main.js": "/joanadarc/static/js/main.cc4a099d.js",
+    "main.js": "/joanadarc/static/js/main.645b8025.js",
     "static/media/instagram.png": "/joanadarc/static/media/instagram.69ab6d69c2b018fe8cf7.png",
     "index.html": "/joanadarc/index.html",
     "main.e0f905df.css.map": "/joanadarc/static/css/main.e0f905df.css.map",
-    "main.cc4a099d.js.map": "/joanadarc/static/js/main.cc4a099d.js.map"
+    "main.645b8025.js.map": "/joanadarc/static/js/main.645b8025.js.map"
   },
   "entrypoints": [
     "static/css/main.e0f905df.css",
-    "static/js/main.cc4a099d.js"
+    "static/js/main.645b8025.js"
   ]
 }
