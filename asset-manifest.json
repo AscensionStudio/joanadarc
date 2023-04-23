@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/joanadarc/static/css/main.73cf7823.css",
-    "main.js": "/joanadarc/static/js/main.f87d2f6e.js",
+    "main.css": "/joanadarc/static/css/main.cf48c439.css",
+    "main.js": "/joanadarc/static/js/main.19dfdeab.js",
     "static/js/787.fcea0ce9.chunk.js": "/joanadarc/static/js/787.fcea0ce9.chunk.js",
     "static/media/9.png": "/joanadarc/static/media/9.fb6aab297a5f63aed67c.png",
     "static/media/8.png": "/joanadarc/static/media/8.38c0ec1b4518839442ea.png",
@@ -17,12 +17,12 @@
     "static/media/7.png": "/joanadarc/static/media/7.9b94bfc854fd2b941097.png",
     "static/media/1.png": "/joanadarc/static/media/1.7f9d25b7663334e77d5d.png",
     "index.html": "/joanadarc/index.html",
-    "main.73cf7823.css.map": "/joanadarc/static/css/main.73cf7823.css.map",
-    "main.f87d2f6e.js.map": "/joanadarc/static/js/main.f87d2f6e.js.map",
+    "main.cf48c439.css.map": "/joanadarc/static/css/main.cf48c439.css.map",
+    "main.19dfdeab.js.map": "/joanadarc/static/js/main.19dfdeab.js.map",
     "787.fcea0ce9.chunk.js.map": "/joanadarc/static/js/787.fcea0ce9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73cf7823.css",
-    "static/js/main.f87d2f6e.js"
+    "static/css/main.cf48c439.css",
+    "static/js/main.19dfdeab.js"
   ]
 }
