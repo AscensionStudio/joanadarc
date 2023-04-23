@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/joanadarc/static/css/main.cf48c439.css",
-    "main.js": "/joanadarc/static/js/main.4039d12d.js",
+    "main.css": "/joanadarc/static/css/main.dbf17428.css",
+    "main.js": "/joanadarc/static/js/main.642b3367.js",
     "static/js/787.fcea0ce9.chunk.js": "/joanadarc/static/js/787.fcea0ce9.chunk.js",
     "static/media/9.png": "/joanadarc/static/media/9.fb6aab297a5f63aed67c.png",
+    "static/media/instagram.png": "/joanadarc/static/media/instagram.69ab6d69c2b018fe8cf7.png",
     "static/media/8.png": "/joanadarc/static/media/8.38c0ec1b4518839442ea.png",
     "static/media/6.png": "/joanadarc/static/media/6.d551292e285335b1c0d7.png",
     "static/media/5.png": "/joanadarc/static/media/5.8465417876dcf24c22d0.png",
@@ -17,12 +18,12 @@
     "static/media/7.png": "/joanadarc/static/media/7.9b94bfc854fd2b941097.png",
     "static/media/1.png": "/joanadarc/static/media/1.7f9d25b7663334e77d5d.png",
     "index.html": "/joanadarc/index.html",
-    "main.cf48c439.css.map": "/joanadarc/static/css/main.cf48c439.css.map",
-    "main.4039d12d.js.map": "/joanadarc/static/js/main.4039d12d.js.map",
+    "main.dbf17428.css.map": "/joanadarc/static/css/main.dbf17428.css.map",
+    "main.642b3367.js.map": "/joanadarc/static/js/main.642b3367.js.map",
     "787.fcea0ce9.chunk.js.map": "/joanadarc/static/js/787.fcea0ce9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf48c439.css",
-    "static/js/main.4039d12d.js"
+    "static/css/main.dbf17428.css",
+    "static/js/main.642b3367.js"
   ]
 }
