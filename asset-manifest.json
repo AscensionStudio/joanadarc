@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/joanadarc/static/css/main.cf48c439.css",
-    "main.js": "/joanadarc/static/js/main.19dfdeab.js",
+    "main.js": "/joanadarc/static/js/main.4039d12d.js",
     "static/js/787.fcea0ce9.chunk.js": "/joanadarc/static/js/787.fcea0ce9.chunk.js",
     "static/media/9.png": "/joanadarc/static/media/9.fb6aab297a5f63aed67c.png",
     "static/media/8.png": "/joanadarc/static/media/8.38c0ec1b4518839442ea.png",
@@ -18,11 +18,11 @@
     "static/media/1.png": "/joanadarc/static/media/1.7f9d25b7663334e77d5d.png",
     "index.html": "/joanadarc/index.html",
     "main.cf48c439.css.map": "/joanadarc/static/css/main.cf48c439.css.map",
-    "main.19dfdeab.js.map": "/joanadarc/static/js/main.19dfdeab.js.map",
+    "main.4039d12d.js.map": "/joanadarc/static/js/main.4039d12d.js.map",
     "787.fcea0ce9.chunk.js.map": "/joanadarc/static/js/787.fcea0ce9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf48c439.css",
-    "static/js/main.19dfdeab.js"
+    "static/js/main.4039d12d.js"
   ]
 }
